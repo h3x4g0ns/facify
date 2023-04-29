@@ -1,6 +1,6 @@
 # Facify
 
-### modern. end-to-end facial verification system made with PyTorch, FastAPI, and Docker
+### **modern end-to-end facial verification system made with PyTorch, FastAPI, and Docker**
 
 The motivation behind this project is to explore how to build a robust end-to-end system from start to finish for efficient and fast facial verification. The goal build a API that can take in 2 photos and determine with extremely high confidence whether or not the same individual is in the photo. 
 
