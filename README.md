@@ -30,6 +30,6 @@ There is an entire suite of academic literature dedicated to building, training,
 ![pipeline](https://www.researchgate.net/publication/344375713/figure/fig2/AS:939581314723840@1601025050284/An-overview-of-the-proposed-face-recognition-pipeline.png)
 [Source:](https://www.researchgate.net/figure/An-overview-of-the-proposed-face-recognition-pipeline_fig2_344375713)
 
-We want to begin with
+
 
 ## Forward Serving API
